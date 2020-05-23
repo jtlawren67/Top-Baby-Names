@@ -1,0 +1,5 @@
+# Ignore Data Folder
+.data
+
+# Ignore All Text Files
+*.txt
